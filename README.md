@@ -21,6 +21,7 @@ After that you can import it using
 import pygame 
 ```
 
-Smrutiranjan Mohapatra
 
+
+Smrutiranjan Mohapatra
 18UCS109
