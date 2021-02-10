@@ -19,3 +19,7 @@ After that you can import it using
 After that you can import it using 
 ```python
 import pygame 
+```
+
+Smrutiranjan Mohapatra
+18UCS109
