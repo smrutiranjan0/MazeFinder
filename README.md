@@ -30,6 +30,6 @@ Now you can
 6. Press SPACE BAR for the algo to work and find you the shortest path.
 7. Press C to reset and go as many times you want .:)
 
-
+ ![alt tag]
 ## Smrutiranjan Mohapatra
 ## 18UCS109
